@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciem.com" resolutions="1x" timestamp="1538509309845">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539203976932">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="cuarto-ciclo.css" crc="12745356" ref="cuarto-ciclo"/>
     <file name="noveno-ciclo.css" crc="12745356" ref="noveno-ciclo"/>
     <file name="tercer-ciclo.css" crc="12745356" ref="tercer-ciclo"/>
-    <file name="index.css" crc="4132118656" ref="index"/>
-    <file name="nomq_index.css" crc="3768906501" ref="index"/>
+    <file name="index.css" crc="258427690" ref="index"/>
+    <file name="nomq_index.css" crc="3762713183" ref="index"/>
     <file name="posts.css" crc="12745356" ref="posts"/>
     <file name="segundo-ciclo.css" crc="12745356" ref="segundo-ciclo"/>
-    <file name="primer-ciclo.css" crc="12745356" ref="primer-ciclo"/>
+    <file name="primer-ciclo.css" crc="3941823448" ref="primer-ciclo"/>
     <file name="software.css" crc="12745356" ref="software"/>
     <file name="profesionales.css" crc="12745356" ref="profesionales"/>
     <file name="septimo-ciclo.css" crc="12745356" ref="septimo-ciclo"/>
@@ -16,6 +16,7 @@
     <file name="octavo-ciclo.css" crc="12745356" ref="octavo-ciclo"/>
     <file name="quinto-ciclo.css" crc="12745356" ref="quinto-ciclo"/>
     <file name="decimo-ciclo.css" crc="12745356" ref="decimo-ciclo"/>
+    <file name="nomq_primer-ciclo.css" crc="144806887" ref="primer-ciclo"/>
   </folder>
   <folder name="fonts">
     <file name="muse-icon-font.woff" crc="3856750426"/>
@@ -38,7 +39,7 @@
     <file name="form_process.php" crc="3851993751" ref="index"/>
     <file name="form-u13661.php" crc="4006746844" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:primer-ciclo"/>
     <file name="require.js" crc="4157109226" ref="index:primer-ciclo:sexto-ciclo:quinto-ciclo:cuarto-ciclo:tercer-ciclo:segundo-ciclo:profesionales:septimo-ciclo:octavo-ciclo:noveno-ciclo:decimo-ciclo:posts:software"/>
   </folder>
   <folder name="images">
@@ -49,7 +50,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:primer-ciclo"/>
     <file name="suuuu.jpg" crc="273726651" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -214,11 +215,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="dark-guidance-industry-1139171-u12160-fr2.jpg" crc="317155882" ref="index"/>
     <file name="disyuntores-crop-u87303.jpg" crc="111038069" seo="true" ref="index">
@@ -249,9 +245,10 @@
     <file name="12345-crop-u77845.jpg" crc="468411777" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="661_bp-u3403-fr2.png" crc="441318374" ref="index"/>
   </folder>
-  <file name="index.html" crc="4129121415" seo="true" mt="1538509212725" redirect="true"/>
-  <file name="primer-ciclo.html" crc="4156262598" seo="true" mt="1538083373314" redirect="false"/>
+  <file name="index.html" crc="4293699306" seo="true" mt="1539203839593" redirect="true"/>
+  <file name="primer-ciclo.html" crc="153513373" seo="true" mt="1539198633943" redirect="false"/>
   <file name="sexto-ciclo.html" crc="248287595" seo="true" mt="1538083411397" redirect="false"/>
   <file name="quinto-ciclo.html" crc="157468874" seo="true" mt="1538083403042" redirect="false"/>
   <file name="cuarto-ciclo.html" crc="304723445" seo="true" mt="1538083396419" redirect="false"/>
