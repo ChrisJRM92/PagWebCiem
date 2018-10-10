@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539203976932">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539210309291">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="cuarto-ciclo.css" crc="12745356" ref="cuarto-ciclo"/>
     <file name="noveno-ciclo.css" crc="12745356" ref="noveno-ciclo"/>
     <file name="tercer-ciclo.css" crc="12745356" ref="tercer-ciclo"/>
-    <file name="index.css" crc="258427690" ref="index"/>
-    <file name="nomq_index.css" crc="3762713183" ref="index"/>
+    <file name="index.css" crc="3781870403" ref="index"/>
+    <file name="nomq_index.css" crc="152321060" ref="index"/>
     <file name="posts.css" crc="12745356" ref="posts"/>
     <file name="segundo-ciclo.css" crc="12745356" ref="segundo-ciclo"/>
     <file name="primer-ciclo.css" crc="3941823448" ref="primer-ciclo"/>
@@ -104,13 +104,6 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="661_bp-u3403-fr.png" crc="18754018" ref="index"/>
-    <file name="large.gif" crc="4020409166" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="ingenieria-electromecanicas.jpg" crc="521188283" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -154,7 +147,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="proteus-u9687-fr.jpg" crc="21669493" ref="index"/>
     <file name="arduino-genuino.png" crc="410307077" ref="index">
@@ -165,7 +157,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="cadesimu.jpg" crc="3922856656" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -183,7 +174,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="pdf.png" crc="4273864275" ref="index">
       <caption webpage="index" alt=""/>
@@ -197,7 +187,6 @@
     </file>
     <file name="dark-guidance-industry-1139171-u12160-fr.jpg" crc="447821364" ref="index"/>
     <file name="proteus.jpg" crc="3865469936" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -246,8 +235,13 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="661_bp-u3403-fr2.png" crc="441318374" ref="index"/>
+    <file name="oferta-laboral-u10524-fr.jpg" crc="3847673602" ref="index"/>
+    <file name="labview-u10383-fr.png" crc="137582931" ref="index"/>
+    <file name="cadesimu-u9657-fr.jpg" crc="3767956652" ref="index"/>
+    <file name="proteus-u9687-fr2.jpg" crc="3815256183" ref="index"/>
+    <file name="ansys_logo-u9612-fr.jpg" crc="4154840515" ref="index"/>
   </folder>
-  <file name="index.html" crc="4293699306" seo="true" mt="1539203839593" redirect="true"/>
+  <file name="index.html" crc="153939602" seo="true" mt="1539209998919" redirect="true"/>
   <file name="primer-ciclo.html" crc="153513373" seo="true" mt="1539198633943" redirect="false"/>
   <file name="sexto-ciclo.html" crc="248287595" seo="true" mt="1538083411397" redirect="false"/>
   <file name="quinto-ciclo.html" crc="157468874" seo="true" mt="1538083403042" redirect="false"/>
