@@ -28,7 +28,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 </script>
   <!-- JS includes -->
   <script src="https://webfonts.creativecloud.com/montserrat:n4:default;asap:n4:default.js" type="text/javascript"></script>
-    <!--HTML Widget code-->
+    <!--custom head HTML-->
+  <style>
+
+html, body{overflow-x: hidden;}
+
+</style>
+  <!--HTML Widget code-->
   
 <style>
 .m_scroll_arrows { display: block; width: 5px; height: 5px; -ms-transform: rotate(45deg); /* IE 9 */ -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */ transform: rotate(45deg); border-right: 2px solid #FFFFFF; border-bottom: 2px solid #FFFFFF; margin: 0 0 3px 4px; width: 16px; height: 16px; }
@@ -2460,9 +2466,6 @@ $('#pamphletu20773').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infini
 $('#pamphletu21723').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,414]},{"speed":[0,0],"in":[414,Infinity]}], $(this)); /* scroll effect */
 $('#u20762').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,414]},{"speed":[0,0],"in":[414,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_550').one('muse_this_bp_activate', function(){
-$('#u12160').registerBackgroundPositionScrollEffect([{"speed":[0,0.7],"in":[-Infinity,1652.1]},{"speed":[0,1],"in":[1652.1,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#u12160').registerBackgroundPositionScrollEffect([{"speed":[0,0.8],"in":[-Infinity,2099.9]},{"speed":[0,0.8],"in":[2099.9,Infinity]}], $(this)); /* scroll effect */
 $('#u10724-bw').registerPositionScrollEffect([{"speed":[null,-1],"in":[-Infinity,700]},{"speed":[null,0],"in":[700,Infinity]}], $(this)); /* scroll effect */
@@ -2475,6 +2478,9 @@ $('#buttonu10762').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity
 $('#buttonu10764').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,700]},{"speed":[0,0],"in":[700,Infinity]}], $(this)); /* scroll effect */
 $('#u16547').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,700]},{"speed":[0,0],"in":[700,Infinity]}], $(this)); /* scroll effect */
 $('#pamphletu10766').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,699.85]},{"speed":[0,0],"in":[699.85,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_550').one('muse_this_bp_activate', function(){
+$('#u12160').registerBackgroundPositionScrollEffect([{"speed":[0,0.7],"in":[-Infinity,1652.1]},{"speed":[0,1],"in":[1652.1,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
