@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539358563945">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539358952341">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="cuarto-ciclo.css" crc="12745356" ref="cuarto-ciclo"/>
@@ -249,7 +249,7 @@
     <file name="icon-cerrar.svg" crc="3979695559" ref="index"/>
     <file name="icon-cerrar_poster_u22709.png" crc="3849048681" ref="index"/>
   </folder>
-  <file name="index.html" crc="518031794" seo="true" mt="1539358537272" redirect="true"/>
+  <file name="index.html" crc="86432889" seo="true" mt="1539358933908" redirect="true"/>
   <file name="primer-ciclo.html" crc="153513373" seo="true" mt="1539198633943" redirect="false"/>
   <file name="sexto-ciclo.html" crc="248287595" seo="true" mt="1538083411397" redirect="false"/>
   <file name="quinto-ciclo.html" crc="157468874" seo="true" mt="1538083403042" redirect="false"/>
