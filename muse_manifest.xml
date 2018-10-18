@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539897700901">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539899394216">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="389358001" ref="index"/>
-    <file name="nomq_index.css" crc="30779640" ref="index"/>
+    <file name="index.css" crc="3794748088" ref="index"/>
+    <file name="nomq_index.css" crc="3857611720" ref="index"/>
     <file name="posts.css" crc="12745356" ref="posts"/>
     <file name="primer-ciclo.css" crc="512754871" ref="primer-ciclo"/>
     <file name="software.css" crc="12745356" ref="software"/>
@@ -69,29 +69,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="disyuntores-crop-u8730.jpg" crc="111038069" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="suuuu68x45.jpg" crc="4017545907" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="solidworks-crop-u8654.jpg" crc="388071265" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="soladudra11168x45.jpg" crc="4189564727" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="12345-crop-u7784.jpg" crc="468411777" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -167,47 +144,11 @@
     <file name="proteus.jpg" crc="3865469936" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="disyuntores-crop-u87302.jpg" crc="111038069" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="solidworks-crop-u86542.jpg" crc="388071265" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="12345-crop-u77842.jpg" crc="468411777" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="661_bp.png" crc="3815099887" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="dark-guidance-industry-1139171-u12160-fr2.jpg" crc="408649812" ref="index"/>
-    <file name="disyuntores-crop-u87303.jpg" crc="111038069" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="solidworks-crop-u86543.jpg" crc="388071265" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="12345-crop-u77843.jpg" crc="468411777" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="disyuntores-crop-u87304.jpg" crc="111038069" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="solidworks-crop-u86544.jpg" crc="388071265" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="12345-crop-u77844.jpg" crc="468411777" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="disyuntores-crop-u87305.jpg" crc="111038069" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="solidworks-crop-u86545.jpg" crc="388071265" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="12345-crop-u77845.jpg" crc="468411777" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="oferta-laboral-u10524-fr.jpg" crc="3847673602" ref="index"/>
     <file name="labview-u10383-fr.png" crc="137582931" ref="index"/>
     <file name="cadesimu-u9657-fr.jpg" crc="3767956652" ref="index"/>
@@ -242,7 +183,7 @@
       <caption webpage="profesionales" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4170709800" seo="true" mt="1539388453174" redirect="true"/>
+  <file name="index.html" crc="4184965782" seo="true" mt="1539899339561" redirect="true"/>
   <file name="primer-ciclo.html" crc="4082595151" seo="true" mt="1539702091433" redirect="true"/>
   <file name="profesionales.html" crc="3821691412" seo="true" mt="1539400039353" redirect="true"/>
   <file name="posts.html" crc="362649066" seo="true" mt="1538083522679" redirect="false"/>

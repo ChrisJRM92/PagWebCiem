@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.ciem.com/index.html</loc>
-    <lastmod>2018-10-12</lastmod>
+    <lastmod>2018-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -19,57 +19,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.ciem.com/images/12345.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/disyuntores-crop-u8730.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/suuuu68x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/solidworks-crop-u8654.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/soladudra11168x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/12345-crop-u7784.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/disyuntores-crop-u87302.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/solidworks-crop-u86542.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/12345-crop-u77842.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/disyuntores-crop-u87303.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/solidworks-crop-u86543.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/12345-crop-u77843.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/disyuntores-crop-u87304.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/solidworks-crop-u86544.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/12345-crop-u77844.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/disyuntores-crop-u87305.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/solidworks-crop-u86545.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/12345-crop-u77845.jpg</image:loc>
     </image:image>
   </url>
   <url>
