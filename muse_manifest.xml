@@ -1,22 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539388525756">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539896676622">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="cuarto-ciclo.css" crc="12745356" ref="cuarto-ciclo"/>
-    <file name="noveno-ciclo.css" crc="12745356" ref="noveno-ciclo"/>
-    <file name="tercer-ciclo.css" crc="12745356" ref="tercer-ciclo"/>
-    <file name="index.css" crc="264096013" ref="index"/>
-    <file name="nomq_index.css" crc="405618943" ref="index"/>
+    <file name="index.css" crc="116112610" ref="index"/>
+    <file name="nomq_index.css" crc="4112821437" ref="index"/>
     <file name="posts.css" crc="12745356" ref="posts"/>
-    <file name="segundo-ciclo.css" crc="12745356" ref="segundo-ciclo"/>
-    <file name="primer-ciclo.css" crc="3941823448" ref="primer-ciclo"/>
+    <file name="primer-ciclo.css" crc="512754871" ref="primer-ciclo"/>
     <file name="software.css" crc="12745356" ref="software"/>
-    <file name="profesionales.css" crc="12745356" ref="profesionales"/>
-    <file name="septimo-ciclo.css" crc="12745356" ref="septimo-ciclo"/>
-    <file name="sexto-ciclo.css" crc="12745356" ref="sexto-ciclo"/>
-    <file name="octavo-ciclo.css" crc="12745356" ref="octavo-ciclo"/>
-    <file name="quinto-ciclo.css" crc="12745356" ref="quinto-ciclo"/>
-    <file name="decimo-ciclo.css" crc="12745356" ref="decimo-ciclo"/>
-    <file name="nomq_primer-ciclo.css" crc="144806887" ref="primer-ciclo"/>
+    <file name="profesionales.css" crc="4144173145" ref="profesionales"/>
+    <file name="nomq_primer-ciclo.css" crc="331327708" ref="primer-ciclo"/>
+    <file name="nomq_profesionales.css" crc="83349227" ref="profesionales"/>
   </folder>
   <folder name="fonts">
     <file name="muse-icon-font.woff" crc="3856750426"/>
@@ -24,23 +16,23 @@
     <file name="muse-icon-font.svg" crc="472712140"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:primer-ciclo:sexto-ciclo:quinto-ciclo:cuarto-ciclo:tercer-ciclo:segundo-ciclo:profesionales:septimo-ciclo:octavo-ciclo:noveno-ciclo:decimo-ciclo:posts:software"/>
-    <file name="museutils.js" crc="3803043152" ref="index:primer-ciclo:sexto-ciclo:quinto-ciclo:cuarto-ciclo:tercer-ciclo:segundo-ciclo:profesionales:septimo-ciclo:octavo-ciclo:noveno-ciclo:decimo-ciclo:posts:software"/>
-    <file name="whatinput.js" crc="86476730" ref="index:primer-ciclo:sexto-ciclo:quinto-ciclo:cuarto-ciclo:tercer-ciclo:segundo-ciclo:profesionales:septimo-ciclo:octavo-ciclo:noveno-ciclo:decimo-ciclo:posts:software"/>
-    <file name="museconfig.js" crc="380897831" ref="index:primer-ciclo:sexto-ciclo:quinto-ciclo:cuarto-ciclo:tercer-ciclo:segundo-ciclo:profesionales:septimo-ciclo:octavo-ciclo:noveno-ciclo:decimo-ciclo:posts:software"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:primer-ciclo:profesionales:posts:software"/>
+    <file name="museutils.js" crc="3803043152" ref="index:primer-ciclo:profesionales:posts:software"/>
+    <file name="whatinput.js" crc="86476730" ref="index:primer-ciclo:profesionales:posts:software"/>
+    <file name="museconfig.js" crc="380897831" ref="index:primer-ciclo:profesionales:posts:software"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:primer-ciclo:sexto-ciclo:quinto-ciclo:cuarto-ciclo:tercer-ciclo:segundo-ciclo:profesionales:septimo-ciclo:octavo-ciclo:noveno-ciclo:decimo-ciclo:posts:software"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:primer-ciclo:profesionales:posts:software"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:primer-ciclo:profesionales"/>
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
     <file name="form-u13661.php" crc="4006746844" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:primer-ciclo"/>
-    <file name="require.js" crc="4157109226" ref="index:primer-ciclo:sexto-ciclo:quinto-ciclo:cuarto-ciclo:tercer-ciclo:segundo-ciclo:profesionales:septimo-ciclo:octavo-ciclo:noveno-ciclo:decimo-ciclo:posts:software"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:primer-ciclo"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:primer-ciclo:profesionales"/>
+    <file name="require.js" crc="4157109226" ref="index:primer-ciclo:profesionales:posts:software"/>
   </folder>
   <folder name="images">
     <file name="disyuntores.jpg" crc="3979289501" seo="true" ref="index">
@@ -50,7 +42,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:primer-ciclo"/>
+    <file name="blank.gif" crc="4208392903" ref="index:primer-ciclo:profesionales"/>
     <file name="suuuu.jpg" crc="273726651" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -242,19 +234,17 @@
     <file name="arduino-genuino-u23728-fr.png" crc="3886555162" ref="index"/>
     <file name="labview-u23734-fr.png" crc="188230241" ref="index"/>
     <file name="software-freecad-logo-440x180-u23736-fr.jpg" crc="3814868452" ref="index"/>
+    <file name="calculo.jpg" crc="106436532" ref="primer-ciclo">
+      <caption webpage="primer-ciclo" alt=""/>
+    </file>
+    <file name="calculo-u25704-fr.jpg" crc="509492370" ref="primer-ciclo"/>
+    <file name="10604550.jpg" crc="4053691746" ref="profesionales">
+      <caption webpage="profesionales" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="364441270" seo="true" mt="1539388453174" redirect="true"/>
-  <file name="primer-ciclo.html" crc="153513373" seo="true" mt="1539198633943" redirect="false"/>
-  <file name="sexto-ciclo.html" crc="248287595" seo="true" mt="1538083411397" redirect="false"/>
-  <file name="quinto-ciclo.html" crc="157468874" seo="true" mt="1538083403042" redirect="false"/>
-  <file name="cuarto-ciclo.html" crc="304723445" seo="true" mt="1538083396419" redirect="false"/>
-  <file name="tercer-ciclo.html" crc="3893073548" seo="true" mt="1538083388420" redirect="false"/>
-  <file name="segundo-ciclo.html" crc="3890918049" seo="true" mt="1538083381285" redirect="false"/>
-  <file name="profesionales.html" crc="3963547083" seo="true" mt="1538083362216" redirect="false"/>
-  <file name="septimo-ciclo.html" crc="417486133" seo="true" mt="1538083435255" redirect="false"/>
-  <file name="octavo-ciclo.html" crc="7574398" seo="true" mt="1538083445125" redirect="false"/>
-  <file name="noveno-ciclo.html" crc="303967897" seo="true" mt="1538083450979" redirect="false"/>
-  <file name="decimo-ciclo.html" crc="428267769" seo="true" mt="1538083456965" redirect="false"/>
+  <file name="index.html" crc="417580622" seo="true" mt="1539896617358" redirect="true"/>
+  <file name="primer-ciclo.html" crc="4082595151" seo="true" mt="1539702091433" redirect="true"/>
+  <file name="profesionales.html" crc="3821691412" seo="true" mt="1539400039353" redirect="true"/>
   <file name="posts.html" crc="362649066" seo="true" mt="1538083522679" redirect="false"/>
   <file name="software.html" crc="528033859" seo="true" mt="1538083586462" redirect="false"/>
 </manifest>

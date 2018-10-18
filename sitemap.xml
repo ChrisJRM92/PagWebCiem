@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.ciem.com/index.html</loc>
-    <lastmod>2018-10-12</lastmod>
+    <lastmod>2018-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -74,67 +74,13 @@
   </url>
   <url>
     <loc>http://www.ciem.com/primer-ciclo.html</loc>
-    <lastmod>2018-10-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.ciem.com/sexto-ciclo.html</loc>
-    <lastmod>2018-09-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.ciem.com/quinto-ciclo.html</loc>
-    <lastmod>2018-09-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.ciem.com/cuarto-ciclo.html</loc>
-    <lastmod>2018-09-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.ciem.com/tercer-ciclo.html</loc>
-    <lastmod>2018-09-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.ciem.com/segundo-ciclo.html</loc>
-    <lastmod>2018-09-27</lastmod>
+    <lastmod>2018-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.ciem.com/profesionales.html</loc>
-    <lastmod>2018-09-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.ciem.com/septimo-ciclo.html</loc>
-    <lastmod>2018-09-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.ciem.com/octavo-ciclo.html</loc>
-    <lastmod>2018-09-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.ciem.com/noveno-ciclo.html</loc>
-    <lastmod>2018-09-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.ciem.com/decimo-ciclo.html</loc>
-    <lastmod>2018-09-27</lastmod>
+    <lastmod>2018-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
