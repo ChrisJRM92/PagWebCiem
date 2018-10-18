@@ -30,7 +30,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <script src="https://webfonts.creativecloud.com/asap:n4:default;montserrat:n4:default.js" type="text/javascript"></script>
     <!--custom head HTML-->
   <style>
-body {overflow-x:hidden;}
+html,body {overflow-x:hidden;}
 </style>
   <!--HTML Widget code-->
   
@@ -2411,14 +2411,6 @@ $('#u18499').registerPositionScrollEffect([{"in":[-Infinity,600],"speed":[0,-1]}
 $('#pamphletu18510').registerPositionScrollEffect([{"in":[-Infinity,600],"speed":[0,-1]},{"in":[600,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#buttonu18807').registerPositionScrollEffect([{"in":[-Infinity,600],"speed":[0,-1]},{"in":[600,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_768').one('muse_this_bp_activate', function(){
-$('#u21389-bw').registerPositionScrollEffect([{"in":[-Infinity,414],"speed":[null,-1]},{"in":[414,Infinity],"speed":[null,0]}], $(this)); /* scroll effect */
-$('#buttonu20714').registerPositionScrollEffect([{"in":[-Infinity,414],"speed":[0,-1]},{"in":[414,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#buttonu20740').registerPositionScrollEffect([{"in":[-Infinity,414],"speed":[0,-1]},{"in":[414,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#pamphletu20773').registerPositionScrollEffect([{"in":[-Infinity,414],"speed":[0,-1]},{"in":[414,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#pamphletu21723').registerPositionScrollEffect([{"in":[-Infinity,414],"speed":[0,-1]},{"in":[414,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u20762').registerPositionScrollEffect([{"in":[-Infinity,414],"speed":[0,-1]},{"in":[414,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#u12160').registerBackgroundPositionScrollEffect([{"in":[-Infinity,2099.9],"speed":[0,0.8]},{"in":[2099.9,Infinity],"speed":[0,0.8]}], $(this)); /* scroll effect */
 $('#u10724-bw').registerPositionScrollEffect([{"in":[-Infinity,700],"speed":[null,-1]},{"in":[700,Infinity],"speed":[null,0]}], $(this)); /* scroll effect */
@@ -2431,6 +2423,14 @@ $('#buttonu10762').registerPositionScrollEffect([{"in":[-Infinity,700],"speed":[
 $('#buttonu10764').registerPositionScrollEffect([{"in":[-Infinity,700],"speed":[0,-1]},{"in":[700,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u16547').registerPositionScrollEffect([{"in":[-Infinity,700],"speed":[0,-1]},{"in":[700,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#pamphletu10766').registerPositionScrollEffect([{"in":[-Infinity,699.85],"speed":[0,-1]},{"in":[699.85,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_768').one('muse_this_bp_activate', function(){
+$('#u21389-bw').registerPositionScrollEffect([{"in":[-Infinity,414],"speed":[null,-1]},{"in":[414,Infinity],"speed":[null,0]}], $(this)); /* scroll effect */
+$('#buttonu20714').registerPositionScrollEffect([{"in":[-Infinity,414],"speed":[0,-1]},{"in":[414,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#buttonu20740').registerPositionScrollEffect([{"in":[-Infinity,414],"speed":[0,-1]},{"in":[414,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#pamphletu20773').registerPositionScrollEffect([{"in":[-Infinity,414],"speed":[0,-1]},{"in":[414,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#pamphletu21723').registerPositionScrollEffect([{"in":[-Infinity,414],"speed":[0,-1]},{"in":[414,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u20762').registerPositionScrollEffect([{"in":[-Infinity,414],"speed":[0,-1]},{"in":[414,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_550').one('muse_this_bp_activate', function(){
 $('#u12160').registerBackgroundPositionScrollEffect([{"in":[-Infinity,1652.1],"speed":[0,0.7]},{"in":[1652.1,Infinity],"speed":[0,1]}], $(this)); /* scroll effect */
