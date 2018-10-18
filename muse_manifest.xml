@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539900203229">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539900443550">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3794748088" ref="index"/>
-    <file name="nomq_index.css" crc="3857611720" ref="index"/>
+    <file name="index.css" crc="4202158419" ref="index"/>
+    <file name="nomq_index.css" crc="209254755" ref="index"/>
     <file name="posts.css" crc="12745356" ref="posts"/>
     <file name="primer-ciclo.css" crc="512754871" ref="primer-ciclo"/>
     <file name="software.css" crc="12745356" ref="software"/>
@@ -40,11 +40,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:primer-ciclo:profesionales"/>
     <file name="suuuu.jpg" crc="273726651" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -55,17 +53,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="soladudra111.jpg" crc="316500782" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="12345.jpg" crc="3836692722" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -183,7 +178,7 @@
       <caption webpage="profesionales" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="161765121" seo="true" mt="1539900148416" redirect="true"/>
+  <file name="index.html" crc="4246734216" seo="true" mt="1539900417247" redirect="true"/>
   <file name="primer-ciclo.html" crc="4082595151" seo="true" mt="1539702091433" redirect="true"/>
   <file name="profesionales.html" crc="3821691412" seo="true" mt="1539400039353" redirect="true"/>
   <file name="posts.html" crc="362649066" seo="true" mt="1538083522679" redirect="false"/>
