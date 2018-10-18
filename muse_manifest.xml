@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539899394216">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539899690470">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3794748088" ref="index"/>
@@ -183,7 +183,7 @@
       <caption webpage="profesionales" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4184965782" seo="true" mt="1539899339561" redirect="true"/>
+  <file name="index.html" crc="139408640" seo="true" mt="1539899641909" redirect="true"/>
   <file name="primer-ciclo.html" crc="4082595151" seo="true" mt="1539702091433" redirect="true"/>
   <file name="profesionales.html" crc="3821691412" seo="true" mt="1539400039353" redirect="true"/>
   <file name="posts.html" crc="362649066" seo="true" mt="1538083522679" redirect="false"/>
