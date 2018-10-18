@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539896676622">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539897700901">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="116112610" ref="index"/>
-    <file name="nomq_index.css" crc="4112821437" ref="index"/>
+    <file name="index.css" crc="389358001" ref="index"/>
+    <file name="nomq_index.css" crc="30779640" ref="index"/>
     <file name="posts.css" crc="12745356" ref="posts"/>
     <file name="primer-ciclo.css" crc="512754871" ref="primer-ciclo"/>
     <file name="software.css" crc="12745356" ref="software"/>
@@ -242,7 +242,7 @@
       <caption webpage="profesionales" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="417580622" seo="true" mt="1539896617358" redirect="true"/>
+  <file name="index.html" crc="4170709800" seo="true" mt="1539388453174" redirect="true"/>
   <file name="primer-ciclo.html" crc="4082595151" seo="true" mt="1539702091433" redirect="true"/>
   <file name="profesionales.html" crc="3821691412" seo="true" mt="1539400039353" redirect="true"/>
   <file name="posts.html" crc="362649066" seo="true" mt="1538083522679" redirect="false"/>
