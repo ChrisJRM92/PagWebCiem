@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539900724771">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1539907113710">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="31470250" ref="index"/>
-    <file name="nomq_index.css" crc="248528917" ref="index"/>
+    <file name="index.css" crc="3816830672" ref="index"/>
+    <file name="nomq_index.css" crc="3774015445" ref="index"/>
     <file name="posts.css" crc="12745356" ref="posts"/>
-    <file name="primer-ciclo.css" crc="512754871" ref="primer-ciclo"/>
+    <file name="primer-ciclo.css" crc="535019116" ref="primer-ciclo"/>
     <file name="software.css" crc="12745356" ref="software"/>
     <file name="profesionales.css" crc="4144173145" ref="profesionales"/>
-    <file name="nomq_primer-ciclo.css" crc="331327708" ref="primer-ciclo"/>
+    <file name="nomq_primer-ciclo.css" crc="534322716" ref="primer-ciclo"/>
     <file name="nomq_profesionales.css" crc="83349227" ref="profesionales"/>
   </folder>
   <folder name="fonts">
@@ -20,10 +20,10 @@
     <file name="museutils.js" crc="3803043152" ref="index:primer-ciclo:profesionales:posts:software"/>
     <file name="whatinput.js" crc="86476730" ref="index:primer-ciclo:profesionales:posts:software"/>
     <file name="museconfig.js" crc="380897831" ref="index:primer-ciclo:profesionales:posts:software"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index:primer-ciclo"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:primer-ciclo"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:primer-ciclo"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:primer-ciclo"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:primer-ciclo:profesionales:posts:software"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:primer-ciclo:profesionales"/>
     <file name="form_check.php" crc="147359589" ref="index"/>
@@ -182,9 +182,51 @@
     <file name="10604550.jpg" crc="4053691746" ref="profesionales">
       <caption webpage="profesionales" alt=""/>
     </file>
+    <file name="symbolab-logo.png" crc="219948211" ref="primer-ciclo">
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+    </file>
+    <file name="wolframalpha.png" crc="318705828" ref="primer-ciclo">
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+    </file>
+    <file name="mathway_logo.png" crc="64214948" ref="primer-ciclo">
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+    </file>
+    <file name="road.jpg" crc="4174814531" seo="true" ref="primer-ciclo">
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+    </file>
+    <file name="cactus.jpg" crc="4128071816" seo="true" ref="primer-ciclo">
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="161751756" seo="true" ref="primer-ciclo">
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+      <caption webpage="primer-ciclo" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4115420898" seo="true" mt="1539900606824" redirect="true"/>
-  <file name="primer-ciclo.html" crc="4082595151" seo="true" mt="1539702091433" redirect="true"/>
+  <file name="index.html" crc="4088185612" seo="true" mt="1539901433509" redirect="true"/>
+  <file name="primer-ciclo.html" crc="4139070393" seo="true" mt="1539907008659" redirect="true"/>
   <file name="profesionales.html" crc="3821691412" seo="true" mt="1539400039353" redirect="true"/>
   <file name="posts.html" crc="362649066" seo="true" mt="1538083522679" redirect="false"/>
   <file name="software.html" crc="528033859" seo="true" mt="1538083586462" redirect="false"/>

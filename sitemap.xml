@@ -23,9 +23,18 @@
   </url>
   <url>
     <loc>http://www.ciem.com/primer-ciclo.html</loc>
-    <lastmod>2018-10-16</lastmod>
+    <lastmod>2018-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.ciem.com/images/road.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ciem.com/images/cactus.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ciem.com/images/trees.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.ciem.com/profesionales.html</loc>
